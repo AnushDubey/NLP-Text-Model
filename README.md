@@ -1,4 +1,6 @@
 # Python NLP Text Model for Extracting Key Sentences Using TF-IDF Algorithm
+(If the "PythonNLP_Text.ipynb" file is not rendering on GitHub, view the file in nbviewer : https://nbviewer.org/github/AnushDubey/NLP-Text-Model/blob/master/PythonNLP_Text.ipynb)
+
 This project involves the creation of an NLP pipeline for news content that involves removing unnecessary and redundant sentences from the news content. The pipeline uses TF-IDF (Term Frequency-Inverse Document Frequency), which is a commonly used numerical statistic in NLP and information retrieval, to identify the most important sentences within a document.
 
 The dataset used for this project can be found at this [link](https://drive.google.com/file/d/1KsWWrhGaK0_IMXPaYBOEXXE8IExqogmJ/edit). The project involves leveraging various techniques such as TF-IDF, Vectorization, Stemming, Lemmatization, Cosine Similarity etc. for similarity computation and cleaned text generation. 
