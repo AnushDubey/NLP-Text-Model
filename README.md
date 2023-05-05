@@ -8,7 +8,7 @@ The dataset used for this project can be found at this [link](https://drive.goog
 The project uses a test-train split of 10-90 to generate cleaned responses for the test set. A table with columns for Original Content, New Content, Removed Lines, and Further Metrics is included for the test set.
 
 ## Methodology
-The methodology folowed in the code is as follows:-
+The methodology followed in the code is as follows:-
 * **Dataset Reading**: The news.csv dataset is read into a pandas dataframe using the read_csv function.
 
 * **Data Cleaning**: Any rows with empty content are dropped and duplicate entries are removed from the dataset. The index of the dataframe is reset.
